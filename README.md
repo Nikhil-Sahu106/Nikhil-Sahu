@@ -4,7 +4,7 @@
 -----
 #### I am an individual with a keen eye for details, seeking to advance my growing tech career in Machine Learning and bringing my skills to engineer responsive solutions along with like-minded peers.
 
-### My skills : man_technologist:
+### My skills 👨‍💻
 - **Competitive Coding**
 <table>
 <tbody>
@@ -14,7 +14,7 @@
 </td>
 
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/C++/C++-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/C/C++-ar21.svg"> 
 </td>
 </tr>
 </tbody>
@@ -121,21 +121,11 @@
 </a>
 
 -->
-**Shreya549/Shreya549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nikhil-Sahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-----
-Credit: [Shreya549](https://github.com/Nikhil-Sahu)
 
-Last Edited on: 23/09/2020
+Credit: [Nikhil Sahu](https://github.com/Nikhil-Sahu)
+
+Last Edited on: 13/10/2021
