@@ -1,4 +1,4 @@
-### Hello World, I'm Nikhil : black_heart:
+### Hello World, I'm Nikhil 🖤:
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
 -----
@@ -95,11 +95,10 @@
 ![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
 
 
-
-<br>
-<br>
-
 <!--
+<br>
+<br>
+
 <table>
 <tbody>
  <tr>
@@ -120,6 +119,8 @@
 <a href="https://github.com/Shreya549">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&theme=radical" />
 </a>
+
+-->
 **Shreya549/Shreya549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
