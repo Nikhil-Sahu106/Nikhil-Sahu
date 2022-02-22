@@ -18,7 +18,7 @@
 </td>
   
  <td align="center" width="50%">
-<img height=80px src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"> 
+<img height=80px src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> 
 </td>
 
 </tr>
@@ -35,24 +35,24 @@
 <img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
 </td>
 
-<!td align="center" width="33%">
-<!img height=70px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
-<!/td>
+<td align="center" width="33%">
+<img height=70px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
+</td>
 
-#<td align="center" width="33%">
-#<img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
-#</td>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
+</td>
 
 </tr>
 
  <tr>
-#<td align="center" width="33%">
-#<img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
-#</td>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+</td>
 
-#<td align="center" width="33%">
-#<img height=60px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
-#</td>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
+</td>
 
 <td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
@@ -67,7 +67,7 @@
 
 ## Currently Learning :beginner:
 
-- **Data Science**
+- **Machine Learning**
 
 <table>
 <tbody>
@@ -121,5 +121,5 @@
 </p>
 
 -----
-Credits: [EmmadiDivyaSrujana](https://github.com/EmmadiDivyaSrujana)
+Credits: [ Nikhil Sahu](https://github.com/Nikhil-Sahu106)
 
