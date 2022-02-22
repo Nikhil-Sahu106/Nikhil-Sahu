@@ -1,125 +1,24 @@
- ###   Hello Everyone! I'm Nikhil Sahu :yellow_heart:
-<img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
+<h1 align="center">Hi 👋, I'm Nikhil Sahu</h1>
+<h3 align="center">An Enthusiatic Machine learner and someone who passionate about coding.</h3>
 
-<hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-sahu106&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-sahu106" /> </p>
 
-## My Skills :computer:
+<p align="left"> <a href="https://twitter.com/sahunikhil106" target="blank"><img src="https://img.shields.io/twitter/follow/sahunikhil106?logo=twitter&style=for-the-badge" alt="sahunikhil106" /></a> </p>
 
-- **Programming Languages**
-<table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
+- 🌱 I’m currently learning **Regression, Clustering**
 
-<td align="center" width="50%">
-<img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
-</td>
-  
- <td align="center" width="50%">
-<img height=80px src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> 
-</td>
+- 📫 How to reach me **sahunikhil106@gmail.com**
 
-</tr>
-
-</tbody>
-</table>
-
-
-- **Web Development**
-<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=70px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
-</td>
-
-</tr>
-
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
-</td>
-
-</tr>
-
-</tbody>
-</table>
-
-<hr>
-
-## Currently Learning :beginner:
-
-- **Machine Learning**
-
-<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> 
-</td>
-</tr>
-
-</tbody>
-</table>
-
-- **Web Development**
-<table>
-<tbody>
- <tr>
-<td align="center" width="100%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
-</td>
-
-</tr>
-
-</tbody>
-</table>
-
-
-<hr>
-
-## Thank you for visiting my profile. You're a gem. :gem:
-
-![Visitor Count](https://profile-counter.glitch.me/EmmadiDivyaSrujana/count.svg)
-
-<hr>
-
-## Connect with me. :smiley:
-
-<p>
-<a href="https://github.com/EmmadiDivyaSrujana"><img src="https://img.shields.io/badge/-Emmadi_Divya_Srujana-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/emmadi-divya-srujana-19baa0182/"><img src="https://img.shields.io/badge/-Emmadi_Divya_Srujana-blue?logo=linkedin&style=flat-square"></a>
-<a href="https://instagram.com/divyasrujana?igshid=esstkghnur2d"><img src="https://img.shields.io/badge/-Divya_Srujana-pink?logo=instagram&style=flat-square"/></a>
-<a href="mailto:edsrujana1@gmail.com"><img src="https://img.shields.io/badge/-edsrujana1@gmail.com-black?logo=gmail&style=flat-square"/></a>
-<a href="https://twitter.com/divya_emmadi"><img src="https://img.shields.io/badge/-divya__emmadi-blue?logo=twitter&style=flat-square"/></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sahunikhil106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahunikhil106" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikhil-sahu106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-sahu106" height="30" width="40" /></a>
+<a href="https://instagram.com/_.nikhil.sahu._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.nikhil.sahu._" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@sahunikhil106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sahunikhil106" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sahunikhil106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sahunikhil106" height="30" width="40" /></a>
 </p>
 
------
-Credits: [ Nikhil Sahu](https://github.com/Nikhil-Sahu106)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil-sahu106&show_icons=true&locale=en" alt="nikhil-sahu106" /></p>
