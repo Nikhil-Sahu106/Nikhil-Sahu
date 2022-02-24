@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Sahu</h1>
+<h3 align="center"><img alt="Coder GIF" height=250 width=450 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" /><h3 align="center">
 <h3 align="center">An Enthusiatic Machine learner and someone who passionate about coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-sahu106&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-sahu106" /> </p>
